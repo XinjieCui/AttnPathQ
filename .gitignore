@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+results/
+outputs/
+logs/
+data/
+weights/
+checkpoints/
+*.safetensors
+*.pt
+*.pth
